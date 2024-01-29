@@ -15,6 +15,10 @@ public:
 		bool java = true;
 		bool javascript = true;
 		bool php = true;
+		bool vb = true;
+		bool swift = true;
+		bool perl = true;
+		bool go = true;
 	} langauges;
 	
 } eric;
