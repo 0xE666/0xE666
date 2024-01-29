@@ -1,16 +1,30 @@
-### Hi there 👋
+```cpp
+class _eric {
+private:
+	std::string = "most of my repos are private :)";
+public:
+	typedef struct _contact {
+		std::string discord = "eric.cpp";
+	} contact, * contact_me;
 
-<!--
-**0xE666/0xE666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	typedef struct _languages {
+		bool python = true;
+		bool c = true;
+		bool cpp = true;
+		bool c_sharp = true;
+		bool java = true;
+		bool javascript = true;
+		bool php = true;
+	} langauges;
+	
+} eric;
+```
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xe666&hide=html,css,scss,jupyter%20notebook&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/0xE666">
+  <img src="https://img.shields.io/github/followers/0xE666">
+</a>
+<a href="https://github.com/0xE666">
+  <img src="https://img.shields.io/github/stars/0xE666">
+</a>
