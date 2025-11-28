@@ -8,9 +8,11 @@ public:
 	} contact, * contact_me;
 
 	typedef struct _languages {
+		bool assembly = true;
 		bool python = true;
 		bool c = true;
 		bool cpp = true;
+		bool objective_c = true;
 		bool c_sharp = true;
 		bool java = true;
 		bool javascript = true;
