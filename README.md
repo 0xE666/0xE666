@@ -26,7 +26,7 @@ public:
 } eric;
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xe666)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/0xE666">
   <img src="https://img.shields.io/github/followers/0xE666">
